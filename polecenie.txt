@@ -1,0 +1,7 @@
+Przyjmuje 2 argumenty
+typu tekstowego (imiê, rzeczownik)
+wypisuje zdanie
+"Imiê to rzeczownik"
+sprawdza, czy imiê to Krzyœ
+jeœli tak - pisze "Czeœæ, Krzysiu!"
+Jeœli nie - pisze "Nie znam Ciê"
